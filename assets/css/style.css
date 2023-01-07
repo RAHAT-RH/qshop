@@ -5480,7 +5480,13 @@ button.axil-btn.wishlist-btn:hover:before {
 
 @media only screen and (max-width: 575px) {
     .header-top-dropdown {
-        justify-content: center
+        justify-content: center;
+    }
+    .d-icon {
+        display: none;
+    }
+    .footer-display {
+        display: none;
     }
 }
 
